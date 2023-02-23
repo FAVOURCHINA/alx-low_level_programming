@@ -1,11 +1,11 @@
 #include "main.h"
 
 /**
- * print_most_numbers - checks fir checks fir a digit(0 through 9)
+ * print_most_numbers - checks for checks for a digit(0 through 9)
  *
  * Return: Alwasy 0.
  */
-void print_most_nunbers(void)
+void print_most_numbers(void)
 {
 int C;
 for (C = 48; C < 58; C++)
